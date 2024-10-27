@@ -26,4 +26,10 @@
 [<img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />](#) 
 
 
+
+
+<br>
+
+[<img alt="Support Tip Jar" title="Cheers!" src="https://img.shields.io/badge/Support-F5C300?style=flat&logo=supabase&logoColor=white" />](https://coinos.io/hmoraes) 
+
 </div>
