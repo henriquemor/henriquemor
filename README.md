@@ -2,7 +2,7 @@
 
 - 📫 How to reach me: henrique@moraes.dev [*skip the formalities*]
 - 💻 I'm a designer and developer driven by curiosity, always on the lookout for new skills to master
-- 📢 Looking to collaborate on new projects, specially games (Godot/Unreal)
+- 📢 Looking to collaborate on new projects, specially games [Godot/Unreal]
 - 💬 Ask me about science, art, games and sci-fi
 - 🤓 Creating bookmarklets/userscripts for fun
 
