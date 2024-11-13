@@ -23,7 +23,7 @@
 [<img alt="HTML 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />](#)
 [<img alt="CSS 3" src="https://img.shields.io/badge/CSS3-289E6D?&style=for-the-badge&logo=css3&logoColor=white" />](#)
 [<img alt="Godot Engine" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />](#)
-[<img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />](#) 
+[<img alt="Three.js" src="https://img.shields.io/badge/Three.JS-0E1128?style=for-the-badge&logo=threedotjs&logoColor=white" />](#) 
 
 
 
