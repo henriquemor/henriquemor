@@ -1,3 +1,5 @@
+<img src="https://moraes.dev/images/logo_static_.svg?from=github" align="right" width="300" syle="filter: grayscale(1) brightness(2);">
+
 ### 👋 Let's 🛠️ together.
 
 - 📫 How to reach me: henrique@moraes.dev [*skip the formalities*]
